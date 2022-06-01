@@ -1,0 +1,7 @@
+{
+  "name": "APO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
